@@ -9,3 +9,5 @@ I will continuously try to commit new code which can improve or fix your problem
 * React-Native/utils/StorageHandler.tsx 
 * React-Native/utils/FileHandler.tsx
 * React-Native/utils/database/user.tsx
+
+More is coming soon
